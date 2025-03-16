@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://awinterstein.github.io/zola-theme-project-portfolio-example"
+base_url = "https://github.com/dmkeijzer/dmkeijzer.github.io"
 
 theme = "project-portfolio"
 
@@ -18,42 +18,18 @@ skills_technologies = "Skills & Technologies"
 main_skills = "Main Skills"
 other_skills = "Additional Skills"
 
-[languages.de]
-title = "Projekt-Portfolio"
-taxonomies = [
-    {name = "projects", paginate_by = 5, feed = true},
-    {name = "skills", paginate_by = 5, feed = true},
-]
 
-[languages.de.translations]
-language_symbol = "🇩🇪"
-home = "Home"
-projects = "Projekte"
-skills = "Qualifikationen"
-read_more = "Weiterlesen"
-skills_technologies = "Qualifikationen & Technologien"
-main_skills = "Top-Fähigkeiten"
-other_skills = "Weitere Fähigkeiten"
-
-[extra]
-enable_multilingual = true
 
 [extra.navbar]
 title = "Project Portfolio"
 
 [extra.index]
-title = "Main Title"
-slogan = "Slogan text that is shown under the title"
-image = "portrait.png"
+title = " Damien Keijzer"
+slogan = "Writing performant and safe source code"
+image = "portrait_damien.jpg"
 image_alt = "Placeholder text describing the index's image."
 
 [extra.social]
-codeberg = "https://codeberg.org/johndoe"
-github = "https://github.com/johndoe"
-gitlab = "https://gitlab.com/johndoe"
-twitter = "https://twitter.com/johndoe"
-mastodon = "https://social.somewhere.com/users/johndoe"
-linkedin = "https://www.linkedin.com/in/john-doe-b1234567/"
-stackoverflow = "https://stackoverflow.com/users/01234567/johndoe"
-telegram = "https://t.me/johndoe"
-email = "john.doe@gmail.com"
+github = "https://github.com/dmkeijzer"
+linkedin = "https://www.linkedin.com/in/damien-keijzer-b3a172221/"
+email = "damien.keijzer@gmail.com"
