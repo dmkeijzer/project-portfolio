@@ -5,7 +5,7 @@ date = 2024-07-01
 
 [extra]
 date_start = 2023-10-01
-image = "vcu.jpg" 
+image = "vcu.jpeg" 
 top_project = true
 
 [taxonomies]
@@ -21,7 +21,7 @@ This project focused on creating an embedded Vehicle Control Unit (VCU) that orc
 - Ensured software compliance with DO-178C requirements through rigorous testing and documentation  
 - Designed an FSM and used UML to illustrate interfaces and implementation.
 
-!["UML Diagram"](/static/images/fsm_design.png)
+!["UML Diagram"](/images/fsm_design.png)
 
 ## What I Learned
 I expanded my skills in embedded real-time control, safety-critical software development, and collaboration with regulatory authorities. This project also strengthened my understanding of hydrogen-based propulsion systems in aerospace applications.

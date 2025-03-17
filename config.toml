@@ -6,6 +6,7 @@ theme = "project-portfolio"
 taxonomies = [
     {name = "projects", paginate_by = 5, feed = true},
     {name = "skills", paginate_by = 5, feed = true},
+    {name = "CV", paginate_by = 5, feed = true},
 ]
 
 [translations]
@@ -21,13 +22,17 @@ other_skills = "Additional Skills"
 
 
 [extra.navbar]
-title = "Project Portfolio"
+title = "Portfolio Damien Keijzer"
+items = [
+  { lang = "en", links = [{ url = "cv", name = "CV" }] }
+]
+
 
 [extra.index]
 title = " Damien Keijzer"
-slogan = "Writing performant and safe source code"
+slogan = "Fast is fine, but safe is final. You must learn to write both."
 image = "portrait_damien.jpg"
-image_alt = "Placeholder text describing the index's image."
+image_alt = "Photo of Damien Keijzer"
 
 [extra.social]
 github = "https://github.com/dmkeijzer"
