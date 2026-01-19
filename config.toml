@@ -30,7 +30,7 @@ items = [
 
 [extra.index]
 title = " Damien Keijzer"
-slogan = "Fast is fine, but safe is final. You must learn to write both."
+slogan = "The only way to go fast is to go well. - Robert C. Martin" 
 image = "portrait_damien.jpg"
 image_alt = "Photo of Damien Keijzer"
 
