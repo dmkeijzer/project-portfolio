@@ -10,9 +10,9 @@ date = 2025-02-11
 </p>
 
 
-<object data="https://dmkeijzer.github.io/project-portfolio/CV_Damien_Keijzer_20250211-2.pdf" type="application/pdf" width="900px" height="900px">
-    <embed src="https://dmkeijzer.github.io/project-portfolio/CV_Damien_Keijzer_20250211-2.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://dmkeijzer.github.io/project-portfolio/CV_Damien_Keijzer_202p50211-2.pdf">Download PDF</a>.</p>
+<object data="https://dmkeijzer.github.io/project-portfolio/CV-20260119.pdf" type="application/pdf" width="900px" height="900px">
+    <embed src="https://dmkeijzer.github.io/project-portfolio/CV-20260119.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://dmkeijzer.github.io/project-portfolio/CV-20260119.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
